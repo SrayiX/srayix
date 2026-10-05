@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**SrayiX/srayix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Sourav Aditya
+-------------------------
+Role.............: Student
+OS...............: Windows 11,Linux
+Languages.Prog...: C,Python,Javascript,C++
+Editor...........: VS Code, Atom
+Learning.........: C, Git, GitHub
+Languages.Spoken.: English, Hindi
+Hobbies..........: Music, Sketching, Engine, Gym
+```
