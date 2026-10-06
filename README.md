@@ -1,4 +1,4 @@
-  <h3 id="hey--im-prudhvi-garapati">Hey 👋, I’m <a href="https://github.com/PrudhviGNV">Prudhvi Garapati!</a></h3>
+  <h3 id="hey--im-prudhvi-garapati">Hey 👋, I’m <a href="https://github.com/PrudhviGNV">Sourav Adutya!</a></h3>
 <a href="https://www.linkedin.com/in/prudhvignv/">
   <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
