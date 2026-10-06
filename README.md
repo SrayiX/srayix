@@ -15,10 +15,10 @@
 <p><strong>Talking about Education/Skills:</strong></p>
 <ul>
 <li>
-<p></p>
+<p>Entrepreneur </p>
 </li>
 <li>
-<p>python</p>
+<p>python,C++</p>
 </li>
 <li>
 <p>Data Science , Machine Learning, Deep Learning and Web development</p>
@@ -39,7 +39,7 @@
 <p>💬 Ask me about anything, I am happy to help</p>
 </li>
 <li>
-<p>📫 How to reach me: <a href="mailto:prudhvi.gnv@gmail.com">prudhvi.gnv@gmail.com</a></p>
+<p>📫 How to reach me: <a href="mailto:prudhvi.gnv@gmail.com">srayixx@gmail.com</a></p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -59,5 +59,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&amp;repo=SpeechEmotionRecognization">
 </a>
 <hr>
-<p>Credits: <a href="https://github.com/PrudhviGNV">PrudhviGNV</a></p>
 <p>Last Edited on: 30/08/2020</p> 
