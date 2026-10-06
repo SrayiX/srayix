@@ -1,62 +1,48 @@
-  <h3 id="hey--im-prudhvi-garapati">Hey 👋, I’m <a href="https://github.com/PrudhviGNV">Sourav Adutya!</a></h3>
-<a href="https://www.linkedin.com/in/prudhvignv/">
-  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-<a href="https://www.instagram.com/prudhvi_gnv/">
-  <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
-<br>
- <a href="https://prudhvignv.github.io/" align="left"> My portfolio : prudhvignv.github.io </a> 
+  <h1 id="hi-there--im-schleidens">Hi there 👋 I’m Schleidens</h1>
+<p><strong>Enthusiast web developer</strong>
 <br>
 <br>
-<p>Hi, I’m Sourav ,a passionate engineering Student specialised in computer science. Enthusiastic in Data science and web development. Fascinated in solving problems and accepting new challenges</p>
-<p>”Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”</p>
- <img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
-<p><strong>Talking about Education/Skills:</strong></p>
+<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&amp;logo=nuxt.js&amp;logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white">
+<br></p>
+  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<h2 id="about-me">About me 😁</h2>
+  <p>
+  <b>
+  I am Schleidens a lover of technology 😍 passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
+  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS 😎).
+  i like to learn new technology and update myself. i also like to contribute in open sources projects
+</b></p><p><b>working with you is already a pleasure for me 😇
+</b></p>
+  <p></p>
 <ul>
-<li>
-<p>Entrepreneur </p>
-</li>
-<li>
-<p>python,C++</p>
-</li>
-<li>
-<p>Data Science , Machine Learning, Deep Learning and Web development</p>
-</li>
-<li>
-<p>Python , Java, JavaScript, C, C#</p>
-</li>
-<li>
-<p>Html, CSS, Java Script, JQuery, BootStrap, React</p>
-</li>
-<li>
-<p>DBMS, MySQL, MongoDB</p>
-</li>
-<li>
-<p>libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib</p>
-</li>
-<li>
-<p>💬 Ask me about anything, I am happy to help</p>
-</li>
-<li>
-<p>📫 How to reach me: <a href="mailto:prudhvi.gnv@gmail.com">srayixx@gmail.com</a></p>
-</li>
+<li>🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS</li>
+<li>🌱 I’m currently learning ReactJS &amp;&amp; Node/express &amp;&amp; TS</li>
 </ul>
-<p>&nbsp;</p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=PrudhviGNV&amp;show_icons=true&amp;hide_border=true" alt="Prudhvi's github stats"></p>
-<p>:pushpin: Star and Fork this <a href="https://github.com/PrudhviGNV/PrudhviGNV">README</a> :pencil:</p>
-<p>💻 Recent projects in which I have contributed in my <a href="https://github.com/PrudhviGNV/">github</a></p>
-<a href="https://github.com/PrudhviGNV/FacialEmotionRecognition-usingCNN">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&amp;repo=FacialEmotionRecognition-usingCNN">
+<br>
+<h2 id="keep-in-touch-with-me">Keep in touch with me 😊</h2>
+<a href="https://twitter.com/schleidens_dev">
+<img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&amp;label=follow&amp;logo=twitter&amp;logoColor=white&amp;style=for-the-badge">
 </a>
-<a href="https://github.com/PrudhviGNV/FaceRecognisationBasedAttendence">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&amp;repo=FaceRecognisationBasedAttendence">
+<a href="https://instagram.com/schleidens.dev">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white">
 </a>
-<a href="https://github.com/PrudhviGNV/pathFinderVisualizer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&amp;repo=pathFinderVisualizer">
+<a href="https://linkedin.com/in/alectineschleidens">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
 </a>
-<a href="https://github.com/PrudhviGNV/SpeechEmotionRecognization">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&amp;repo=SpeechEmotionRecognization">
+<a href="https://facebook.com/elhermano.dejesus">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white">
 </a>
+<a href="https://dev.to/schleidens">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white">
+</a>
+<a href="https://discord.gg/fAuyjtSR">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white">
+</a>
+<br>
+<br>
+<h2 id="streakstats">StreakStats 🚀</h2>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Schleidens&amp;theme=vue-dark&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a></p>
 <hr>
-<p>Last Edited on: 30/08/2020</p> 
+<br>
+<p>Credit: <a href="https://github.com/Schleidens">Schleidens.Dev</a></p>
+<p>Last Edited on: 27/11/2022</p> 
